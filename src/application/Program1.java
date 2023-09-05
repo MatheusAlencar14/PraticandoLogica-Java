@@ -1,6 +1,6 @@
 package application;
 
-import application.entities.Pessoa;
+import entities.Pessoa;
 
 import java.util.ArrayList;
 import java.util.List;

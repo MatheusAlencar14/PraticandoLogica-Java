@@ -1,6 +1,4 @@
-package application.entities;
-
-import java.util.List;
+package entities;
 
 public class Pessoa {
 
